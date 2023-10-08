@@ -1,0 +1,39 @@
+p{
+    color:black;
+    background-color: white;
+    text-align: center;
+}
+#one{
+    font-family: Arial;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: none;
+}
+#two{
+    font-family: arial;
+    font-size: 25px;
+    line-height: normal;
+    text-transform: none;
+}
+h1{
+    color:red;
+    text-align: left;
+    text-decoration: blue dotted underline;
+}
+body{
+    background-color:aqua;
+}
+input{
+    background-color:rgb(188, 205, 205);
+}
+label{
+    color: red;
+}
+select{
+    color:white;
+    background-color: chartreuse;
+}
+button{
+    color:wheat;
+    background-color: blue;
+}
