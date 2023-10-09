@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-style: non;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+#containt{
+    height: 560px;
+}
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 0, 0, 0.5);
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+#two{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 255, 0, 0.5);
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+#three{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.5);
+    display: inline-block;
+    margin: 5px;
+    text-align:center;
+}
+p{
+    color: rgb(251, 46, 35);
+}
+#four{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    background-image: url(girl.jpg.jpg);
+    background-size: cover;
+    position: fixed;
+    top: 60px;
+    right: 20px;
+    border: 2px solid paleturquoise;
+}
+#foot{
+    background-color: #0f1111;
+    color: wheat;
+    text-align: center;
+}
